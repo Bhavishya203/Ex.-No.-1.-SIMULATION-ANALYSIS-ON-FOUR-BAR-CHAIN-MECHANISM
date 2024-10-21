@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 30-10-2024
 
 ## AIM:
 
@@ -54,9 +54,11 @@
 
 ## Output:
 
+![empd ex1 output](https://github.com/user-attachments/assets/12eaad3a-6590-480c-b9a3-edc342158be7)
 
-### Name:
-### Register Number: 
+
+### Name: Bhavishya REddy Mitta
+### Register Number: 212221230061
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
