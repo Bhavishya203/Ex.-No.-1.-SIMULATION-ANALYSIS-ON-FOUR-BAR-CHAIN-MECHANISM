@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 28-09-2024
+## DATE: 21/10/2024
 
 ## AIM:
 
@@ -53,12 +53,14 @@
 
 
 ## Output:
+![img1](https://github.com/Rakshithajagadeesh07/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147081797/1af449c1-3269-4d61-8fd0-fa2c1446690f)
 
-![empd ex1 output](https://github.com/user-attachments/assets/12eaad3a-6590-480c-b9a3-edc342158be7)
+![img 2](https://github.com/Rakshithajagadeesh07/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147081797/ff1624df-959f-4ea4-9146-f223f288f7ef)
 
+![img 3](https://github.com/Rakshithajagadeesh07/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147081797/f6fc8473-035a-4c41-b514-1b66076eaec9)
 
-### Name: Praveen D
-### Register Number: 212222240076
+### Name: Bhavishya Reddy Mitta
+### Register Number: 212221230061
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
